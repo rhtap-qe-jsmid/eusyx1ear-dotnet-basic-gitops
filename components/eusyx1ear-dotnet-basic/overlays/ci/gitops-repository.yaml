@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: eusyx1ear-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/eusyx1ear-dotnet-basic-gitops
